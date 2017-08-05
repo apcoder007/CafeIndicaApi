@@ -1,0 +1,424 @@
+< SVG Editor Input Optimise Edit (experimental) Output
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="683" height="611" viewBox="0 0 683 611">
+  <title>
+    
+    why-datashop
+  
+  </title>
+  <defs>
+    <#comment/>
+    <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+      <feGaussianBlur stdDeviation="50" in="SourceGraphic"/>
+    </filter>
+    <ellipse id="path-4" cx="7" cy="7" rx="7" ry="7"/>
+    <rect id="path-6" x="402" width="282" height="457" rx="2.1"/>
+    <path id="path-9" d="M0.5h348V361H0.5z"/>
+    <rect id="path-11" width="213" height="150" rx="1.5"/>
+  </defs>
+  <g id="Landing-page-updated" fill="none" fill-rule="evenodd" transform="translate(0 55)">
+    <ellipse id="Oval-75" fill="#EDEDED" filter="url(#filter-3)" transform="rotate(90 479.5 439.5)" cx="479.5" cy="439.5" rx="74.5" ry="204.5"/>
+    <g id="how-it-works" transform="translate(0 86)" fill-rule="evenodd">
+      <path d="M52.5 30.5S125.2 24.7 168 89c42.6 64.4 71 51 154.4 51" id="path1" stroke="#E6E6E6" stroke-width="6" stroke-linecap="square"/>
+      <path d="M50.2 251s55.8 4.5 95.4-32.8c39.7-37.3 31.6-87.8 158.6-77.4" id="path3" stroke="#E6E6E6" stroke-width="6" stroke-linecap="square"/>
+      <path d="M58 141h247" id="path2" stroke="#E6E6E6" stroke-width="6" stroke-linecap="square"/>
+      <path d="M288 141h247" id="path4" stroke="#E6E6E6" stroke-width="6" stroke-linecap="square"/>
+      <g id="icon-1" transform="translate(-10 -10)">
+        <ellipse id="Oval-454-Copy" stroke="#FFF" stroke-width="4.8" fill="#60C074" cx="12" cy="12" rx="12" ry="12"/>
+        <path d="M12 11c1.4 0 2.5-1 2.5-2.5C14.5 7 13.5 6 12 6c-1.3 0-2.5 1-2.5 2.5C9.5 10 10.7 11 12 11zm5 5v-1.3c0-1.6-3.3-2.4-5-2.4-1.7 0-5 0.8-5 2.4V16c0.2 1 2.4 2 5 2 2.7 0 5-1 5-2z" id="Shape-Copy" fill="#FFF"/>
+        <animateMotion id="icon1animation" dur="5s" repeatCount="indefinite">
+          <mpath xlink:href="#path1"/>
+        </animateMotion>
+      </g>
+      <g id="icon-5" transform="translate(-10 -10)">
+        <ellipse id="Oval-454-Copy" stroke="#FFF" stroke-width="4.8" fill="#60C074" cx="12" cy="12" rx="12" ry="12"/>
+        <path d="M12 11c1.4 0 2.5-1 2.5-2.5C14.5 7 13.5 6 12 6c-1.3 0-2.5 1-2.5 2.5C9.5 10 10.7 11 12 11zm5 5v-1.3c0-1.6-3.3-2.4-5-2.4-1.7 0-5 0.8-5 2.4V16c0.2 1 2.4 2 5 2 2.7 0 5-1 5-2z" id="Shape-Copy" fill="#FFF"/>
+        <animateMotion id="icon1animation" dur="5s" repeatCount="indefinite" begin="icon1animation.begin + 1.6s">
+          <mpath xlink:href="#path2"/>
+        </animateMotion>
+      </g>
+      <g id="icon-3" transform="translate(-10 -10)">
+        <ellipse id="Oval-454-Copy-2" stroke="#FFF" stroke-width="5.1" fill="#60C074" cx="12" cy="12" rx="12" ry="12"/>
+        <g id="Shape-Copy-3" transform="translate(5.03 5)">
+          <path d="M7 2c1 0 1.6 1.6 1.5S8 5 7 5c-1 0-1.6-0.7-1.6-1.5S6 2 7 2zm7 5.3H9.3V17H7.8v-4.5H6.2V17H4.7V7.2H0V5.8h14v1.5z" id="Shape" fill="#FFF" mask="url(#mask-5)"/>
+        </g>
+        <animateMotion id="icon3animation" dur="5s" repeatCount="indefinite" begin="icon1animation.begin + 2.5s">
+          <mpath xlink:href="#path3"/>
+        </animateMotion>
+      </g>
+      <circle id="icon-2" stroke="#FAFAFA" stroke-width="3" fill="#60C074" r="7">
+        <animateMotion id="icon2animation" dur="2.5s" repeatCount="indefinite" begin="icon1animation.begin + 5s">
+          <mpath xlink:href="#path4"/>
+        </animateMotion>
+      </circle>
+      <g transform="translate(272 109)">
+        <g id="icon-4">
+          <circle id="Oval-454" fill="#60C074" cx="32" cy="32" r="32"/>
+          <path d="M46.5 33c0 4-1.7 8-4.5 10.5l4.5 4.5H35.3V36.7l4 4.2c2.2-2 3.5-4.8 3.5-8 0-5-3.2-9-7.5-10.7v-3.7C41.7 20.2 46.5 26 46.5 33zm-30-15h11.3v11.3l-4-4.2c-2.2 2-3.5 4.8-3.5 8 0 5 3.2 9 7.5 10.7v4C21.4 45.8 16.5 40 16.5 33c0-4 1.7-8 4.5-10.5L16.5 18z" id="Shape-Copy-4" fill="#458452"/>
+          <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 32 32" to="360 32 32" dur="3s" repeatCount="indefinite" begin="icon1animation.begin + 4.5s"/>
+        </g>
+      </g>
+      <path id="bg-rect" fill="#FFF" d="M0-20h50v77H0z"/>
+      <path d="M30 20V6.5L23.5 0 17 6.6V11H4v31h39V20H30zM12.7 37.5H8.3v-4.4h4.4v4.4zm0-9H8.3v-4.3h4.4v4.4zm0-8.7H8.3v-4.5h4.4V20zm13 17.6h-4.4v-4.4h4.4v4.4zm0-9h-4.4v-4.3h4.4v4.4zm0-8.7h-4.4v-4.5h4.4V20zm0-9h-4.4V6.7h4.4V11zm13 26.6h-4.4v-4.4h4.4v4.4zm0-9h-4.4v-4.3h4.4v4.4zM23.5 123.3V114H0v42h47v-32.7H23.5zm-14 28H4.6v-4.6h4.7v4.6zm0-9.3H4.6v-4.7h4.7v4.7zm0-9.3H4.6V128h4.7v4.7zm0-9.4H4.6v-4.6h4.7v4.6zm9.3 28H14v-4.6H19v4.6zm0-9.3H14v-4.7H19v4.7zm0-9.3H14V128H19v4.7zm0-9.4H14v-4.6H19v4.6zm23.5 28H23.5v-4.6h4.7V142h-4.7v-4.7h4.7v-4.6h-4.7V128h18.8v23.3zm-4.7-18.6H33v4.6h4.6v-4.6zm0 9.3H33v4.7h4.6V142zM34.6 229.2V225H13.4v4.2H7V267h12.8v-4.2H28v4.2H41v-37.8h-6.4zM22 256.5h-4.4v-4.2H22v4.2zm0-8.4h-4.4v-4H22v4zm0-8.3h-4.4v-4.2H22v4.2zm8.4 16.8H26v-4.2h4.4v4.2zm0-8.4H26v-4h4.4v4zm0-8.3H26v-4.2h4.4v4.2z" id="Shape" fill="#AFB6C0"/>
+    </g>
+    <g id="rectangle">
+      <use stroke="#CCD1D9" mask="url(#mask-8)" xlink:href="#path-6"/>
+    </g>
+    <g id="Content-[here]" transform="translate(403 46.33)">
+      <g id="dashboard" transform="translate(-1 51)">
+        <use id="Rectangle" stroke="#CCD1D9" mask="url(#mask-10)" fill="#FAFAFA" xlink:href="#path-9"/>
+        <g id="Rectangle-243-+-Shape-+-Group-Copy-5" transform="translate(243 17)">
+          <g id="Rectangle-243">
+            <use fill="#000" filter="url(#filter-12)" xlink:href="#path-11"/>
+            <use stroke="#DDD" mask="url(#mask-13)" fill="#FFF" xlink:href="#path-11"/>
+          </g>
+          <text id="Diabetes---HbA1C->-8" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="8.7" fill="#434A54">
+            <tspan x="9.7" y="15.3">
+              Diabetes - HbA1C > 8.0
+            </tspan>
+          </text>
+          <text id="Target-Copy" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="5.8" fill="#666">
+            <tspan x="17.4" y="45.7">
+              Target
+            </tspan>
+          </text>
+          <ellipse id="Oval-16-Copy-5" fill="#D32E2E" cx="13.1" cy="43.5" rx="1.9" ry="1.9"/>
+          <text id="58.8%" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14.5" fill="#222">
+            <tspan x="9.7" y="32.9">
+              58.8%
+            </tspan>
+          </text>
+          <path d="M29 83.2h174.3" id="Line-Copy-9" stroke="#D32E2E" stroke-linecap="square" opacity=".7"/>
+          <text id="0" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="23.3" y="129.4">
+              0
+            </tspan>
+          </text>
+          <text id="20" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="20.9" y="116.3">
+              20
+            </tspan>
+          </text>
+          <text id="40" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="20.9" y="104.2">
+              40
+            </tspan>
+          </text>
+          <text id="60" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="20.9" y="91.1">
+              60
+            </tspan>
+          </text>
+          <text id="80" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="20.9" y="78.5">
+              80
+            </tspan>
+          </text>
+          <text id="100" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="18.5" y="66.5">
+              100
+            </tspan>
+          </text>
+          <text id="HbA1c" transform="rotate(-90 11.86 93)" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#666">
+            <tspan x="5.3" y="95">
+              HbA1c
+            </tspan>
+          </text>
+          <path id="Path-29-Copy-2" fill="#60C174" opacity=".1" d="M33 91.7l16-1 15.6-0.8L79 89l15 0.2 14.8 2 14.8 2 15 1L153 96l14.8-2 14-1.4 16-1v36H33"/>
+          <path id="Path-29" stroke="#60C174" stroke-width="1.5" d="M33 91.7l16-1 15.6-0.8L79 89l15 0.2 14.8 2 14.8 2 15 1L153 96l14.8-2 14-1.4 16-1"/>
+          <g id="X-Axis-Copy-3" transform="translate(30.014 129.677)" font-size="4.8" font-family="SourceSansPro-Semibold, Source Sans Pro" fill="#9B9B9B" font-weight="500">
+            <text id="NOV" transform="rotate(45 5.567 5.42)">
+              <tspan x="1.1" y="7.4">
+                NOV
+              </tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Rectangle-243-+-Shape-+-Group-Copy-8" transform="translate(243 181)">
+          <g id="Rectangle-243">
+            <use fill="#000" filter="url(#filter-15)" xlink:href="#path-11"/>
+            <use stroke="#DDD" mask="url(#mask-16)" fill="#FFF" xlink:href="#path-11"/>
+          </g>
+          <text id="High-Risk-Patients" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="8.7" fill="#434A54">
+            <tspan x="9.7" y="15.3">
+              High Risk Patients
+            </tspan>
+          </text>
+          <text id="243" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14.5" fill="#222">
+            <tspan x="9.7" y="31.9">
+              243
+            </tspan>
+          </text>
+          <text id="0" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="23.3" y="128.9">
+              0
+            </tspan>
+          </text>
+          <text id="50" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="20.9" y="112.2">
+              50
+            </tspan>
+          </text>
+          <text id="100" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="18.5" y="95.7">
+              100
+            </tspan>
+          </text>
+          <text id="150" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="18.5" y="79.3">
+              150
+            </tspan>
+          </text>
+          <text id="200" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="18.5" y="62.8">
+              200
+            </tspan>
+          </text>
+          <text id="250" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="18.5" y="46.6">
+              250
+            </tspan>
+          </text>
+          <text id="Number-of-Patients" transform="rotate(-90 11.86 86.226)" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#666">
+            <tspan x="-7.8" y="88.2">
+              Number of Patients
+            </tspan>
+          </text>
+          <g id="series-copy" transform="matrix(-1 0 0 1 199.445 65.806)" fill="#F79A1B">
+            <path id="bar" d="M154.6 24.2h9.7v37.3h-9.7z"/>
+          </g>
+          <g id="X-Axis-Copy-2" transform="translate(35.823 129.677)" font-size="4.8" font-family="SourceSansPro-Semibold, Source Sans Pro" fill="#9B9B9B" font-weight="500">
+            <text id="NOV" transform="rotate(45 5.567 5.42)">
+              <tspan x="1.1" y="7.4">
+                NOV
+              </tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Rectangle-243-+-Shape-+-Group-Copy-7" transform="translate(15 181)">
+          <g id="Rectangle-243">
+            <use fill="#000" filter="url(#filter-18)" xlink:href="#path-11"/>
+            <use stroke="#DDD" mask="url(#mask-19)" fill="#FFF" xlink:href="#path-11"/>
+          </g>
+          <g id="Group-Copy-2" transform="translate(9.682 7.258)">
+            <path d="M192 3.4c0.3 0 0.7-0.3-0.7 0-0.4-0.4-0.8-0.8-0.8-0.5 0-0.8-0.8 0 0.4zm0 0.7c-0.5 0-0.8-0.8s0.3c0.3 0 0.7-0.4-0.8s-0.4-0.7-0.8-0.7zm0 2.3c-0.5 0-0.8-0.8 0 0.4 0 0.7-0.3-0.7 0-0.4-0.4-0.7-0.8-0.7z" id="Shape-Copy-6" fill="#CCC"/>
+            <path d="M177.7 6h7.2v-0.7h-7.3V6zm0 1.7h7.2V7h-7.3v0.7zm0-3.3h7.2v-0.8h-7.3v0.8zm0-2.5v0.8h7.2v-1h-7.3z" id="Shape-Copy-2" fill="#CCD1D9"/>
+          </g>
+          <text id="Likelihood-of-Hospit" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="8.7" fill="#434A54">
+            <tspan x="9.7" y="15.3">
+              Likelihood of Hospitalization
+            </tspan>
+          </text>
+          <text id="20%" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="21.1" y="103.5">
+              20%
+            </tspan>
+          </text>
+          <text id="0%" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="23.5" y="121.6">
+              0%
+            </tspan>
+          </text>
+          <text id="40%" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="21.1" y="86">
+              40%
+            </tspan>
+          </text>
+          <text id="60%" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="21.1" y="68.6">
+              60%
+            </tspan>
+          </text>
+          <text id="80%" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="21.1" y="51.2">
+              80%
+            </tspan>
+          </text>
+          <text id="100%" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="18.7" y="34">
+              100%
+            </tspan>
+          </text>
+          <text id="Likelihood-of-Hospit" transform="rotate(-90 11.86 75.58)" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#666">
+            <tspan x="-17.2" y="77.6">
+              Likelihood of Hospitalization
+            </tspan>
+          </text>
+          <path d="M196.6 119.6c-146 0-157.4 2.4-162.7-86.8" id="Path-29" stroke="#F79A1B" stroke-width="1.5"/>
+          <path d="M197.5 119.6c-146 0-157.4 2.4-162.7-86.8 0 2-1 0.7-1 0.7l0.6 86.5" id="Path-29-Copy" fill="#F78F1E" opacity=".1"/>
+          <g id="X-Axis-Copy-2" transform="translate(31.95 123.387)" font-size="4.8" font-family="SourceSansPro-Regular, Source Sans Pro">
+            <text id="0" fill="#9B9B9B">
+              <tspan x="0" y="5">
+                0
+              </tspan>
+            </text>
+            <text id="20%" fill="#9B9B9B">
+              <tspan x="25.9" y="5">
+                20%
+              </tspan>
+            </text>
+            <text id="40%" fill="#9B9B9B">
+              <tspan x="58.3" y="5">
+                40%
+              </tspan>
+            </text>
+            <text id="60%" fill="#9B9B9B">
+              <tspan x="90.7" y="5">
+                60%
+              </tspan>
+            </text>
+            <text id="80%" fill="#9B9B9B">
+              <tspan x="123.2" y="5">
+                80%
+              </tspan>
+            </text>
+            <text id="100%" fill="#9B9B9B">
+              <tspan x="157.3" y="5">
+                100%
+              </tspan>
+            </text>
+            <text id="Percentage-of-People" fill="#666">
+              <tspan x="52.9" y="15.6">
+                Percentage of People
+              </tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Rectangle-243-+-Shape-+-Group-Copy-6" transform="translate(15 17)">
+          <g id="Rectangle-243">
+            <use fill="#000" filter="url(#filter-21)" xlink:href="#path-11"/>
+            <use stroke="#DDD" mask="url(#mask-22)" fill="#FFF" xlink:href="#path-11"/>
+          </g>
+          <g id="Group-Copy-2" transform="translate(10.65 7.258)">
+            <path d="M192 3.4c0.3 0 0.7-0.3-0.7 0-0.4-0.4-0.8-0.8-0.8-0.5 0-0.8-0.8 0 0.4zm0 0.7c-0.5 0-0.8-0.8s0.3c0.3 0 0.7-0.4-0.8s-0.4-0.7-0.8-0.7zm0 2.3c-0.5 0-0.8-0.8 0 0.4 0 0.7-0.3-0.7 0-0.4-0.4-0.7-0.8-0.7z" id="Shape-Copy-6" fill="#CCC"/>
+            <path d="M177.7 6h7.2v-0.7h-7.3V6zm0 1.7h7.2V7h-7.3v0.7zm0-3.3h7.2v-0.8h-7.3v0.8zm0-2.5v0.8h7.2v-1h-7.3z" id="Shape-Copy-2" fill="#CCD1D9"/>
+          </g>
+          <text id="Risk-Adjusted-PMPM" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="8.7" fill="#434A54">
+            <tspan x="9.7" y="15.3">
+              Risk Adjusted PMPM
+            </tspan>
+          </text>
+          <text id="$425.67" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14.5" fill="#222">
+            <tspan x="9.7" y="31.9">
+              $425.67
+            </tspan>
+          </text>
+          <text id="Target" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="5.8" fill="#666">
+            <tspan x="17.4" y="45.7">
+              Target
+            </tspan>
+          </text>
+          <ellipse id="Oval-16-Copy-4" fill="#D32E2E" cx="13.1" cy="43.5" rx="1.9" ry="1.9"/>
+          <path d="M28.2 68.7h175" id="Line-Copy-8" stroke="#D32E2E" stroke-linecap="square" opacity=".7"/>
+          <text id="100" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="18.5" y="115.8">
+              100
+            </tspan>
+          </text>
+          <text id="0" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="23.3" y="128.9">
+              0
+            </tspan>
+          </text>
+          <text id="200" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="18.5" y="103.2">
+              200
+            </tspan>
+          </text>
+          <text id="300" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="18.5" y="90.2">
+              300
+            </tspan>
+          </text>
+          <text id="400" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="18.5" y="77.6">
+              400
+            </tspan>
+          </text>
+          <text id="500" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#9B9B9B">
+            <tspan x="18.5" y="65.5">
+              500
+            </tspan>
+          </text>
+          <text id="PMPM" transform="rotate(-90 11.86 88.16)" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.8" fill="#666">
+            <tspan x="5.6" y="90.2">
+              PMPM
+            </tspan>
+          </text>
+          <g id="series-copy" transform="matrix(-1 0 0 1 197.025 63.387)" fill="#60C174">
+            <path id="bar" d="M0 0h9.7v64H0zM14 2h9.7v61.8H14zM28 4.8H38v59H28zM42 9.2H52V64H42zM56.2 15H66v49H56zM70.2 18H80v46H70zM84.2 15H94v49H84zM98.3 15h9.7v49h-9.7zM112.3 18h9.7v46h-9.7zM126.3 26h9.7V64h-9.7zM140.4 37.3h9.7V64h-9.6zM154.4 45h9.7v19h-9.6z"/>
+          </g>
+          <g id="X-Axis-Copy-2" transform="translate(34.37 129.677)" font-size="4.8" font-family="SourceSansPro-Semibold, Source Sans Pro" fill="#9B9B9B" font-weight="500">
+            <text id="NOV" transform="rotate(45 5.567 5.42)">
+              <tspan x="1.1" y="7.4">
+                NOV
+              </tspan>
+            </text>
+            <text id="DEC" transform="rotate(45 20.09 5.42)">
+              <tspan x="15.9" y="7.4">
+                DEC
+              </tspan>
+            </text>
+            <text id="JAN" transform="rotate(45 34.128 5.42)">
+              <tspan x="30" y="7.4">
+                JAN
+              </tspan>
+            </text>
+            <text id="FEB" transform="rotate(45 47.925 5.42)">
+              <tspan x="43.9" y="7.4">
+                FEB
+              </tspan>
+            </text>
+            <text id="MAR" transform="rotate(45 62.206 5.42)">
+              <tspan x="57.6" y="7.4">
+                MAR
+              </tspan>
+            </text>
+            <text id="APR" transform="rotate(45 75.76 5.42)">
+              <tspan x="71.5" y="7.4">
+                APR
+              </tspan>
+            </text>
+            <text id="MAY" transform="rotate(45 90.04 5.42)">
+              <tspan x="85.7" y="7.4">
+                MAY
+              </tspan>
+            </text>
+            <text id="JUN" transform="rotate(45 104.08 5.42)">
+              <tspan x="99.7" y="7.4">
+                JUN
+              </tspan>
+            </text>
+            <text id="JUL" transform="rotate(45 118.118 5.42)">
+              <tspan x="114.1" y="7.4">
+                JUL
+              </tspan>
+            </text>
+            <text id="AUG" transform="rotate(45 132.157 5.42)">
+              <tspan x="127.7" y="7.4">
+                AUG
+              </tspan>
+            </text>
+            <text id="SEP" transform="rotate(45 146.438 5.42)">
+              <tspan x="142.4" y="7.4">
+                SEP
+              </tspan>
+            </text>
+            <text id="OCT" transform="rotate(45 159.992 5.42)">
+              <tspan x="155.6" y="7.4">
+                OCT
+              </tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      
+    </g>
+    <path d="M404 0c-1 0-2 1-2 2v23.7h281V2c0-1-1-2-2-2H404z" id="Window-Header" fill="#F5F5F5"/>
+    <g id="Buttons" transform="translate(410.45 8.345)">
+      <ellipse id="Close" fill="#FC645F" cx="3.9" cy="4.7" rx="3.9" ry="3.9"/>
+      <ellipse id="Zoom" fill="#FDBF41" cx="18" cy="4.7" rx="3.9" ry="3.9"/>
+      <ellipse id="Minimize" fill="#34C849" cx="32" cy="4.7" rx="3.9" ry="3.9"/>
+    </g>
+  </g>
+</svg>
+This website was created by Peter Collingridge.

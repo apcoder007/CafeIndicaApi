@@ -1,0 +1,58 @@
+application: cafe-indica-163107
+version: web
+runtime: python27
+api_version: 1
+threadsafe: yes
+
+
+handlers:
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+- url: /js
+  static_dir: js
+
+- url: /oauth2callback
+  script: oauth2client.appengine.application
+
+- url: /images/favicon
+  static_dir: images/favicon
+
+- url: /images
+  static_dir: images
+
+- url: /css
+  static_dir: css
+
+- url: /img
+  static_dir: img
+
+- url: /media
+  static_dir: media
+
+- url: /api/.*
+  script: api.app
+
+env_variables:
+  CLOUD_STORAGE_BUCKET: cafeindica
+
+
+libraries:
+- name: webapp2
+  version: "2.5.2"
+
+- name: jinja2
+  version: latest
+  
+- name: pycrypto
+  version: "2.6"
+
+- name: MySQLdb
+  version: "latest"
+
+inbound_services:
+- warmup
+
+
+
